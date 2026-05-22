@@ -1,6 +1,6 @@
-torch
+torch==2.4.0
 numpy
 datasets
-torchtext
+torchtext==0.18.0
 tqdm
 matplotlib
